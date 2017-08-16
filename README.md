@@ -1,9 +1,9 @@
 
 
-Learn A Byte of PythonÑ§Ï°±Ê¼Ç
+A Byte of Pythonå­¦ä¹ ç¬”è®°
 
-ÖĞÎÄ°æ²Î¿¼£º[¼òÃ÷ Python ½Ì³Ì](https://www.gitbook.com/book/lenkimo/byte-of-python-chinese-edition/details)
+ä¸­æ–‡ç‰ˆå‚è€ƒï¼š[ç®€æ˜ Python æ•™ç¨‹](https://www.gitbook.com/book/lenkimo/byte-of-python-chinese-edition/details)
 
-[PythonµÄÒ»Ğ©Ñ§Ï°×ÊÔ´](http://www.jianshu.com/p/5b9c2163fa98)
+[Pythonçš„ä¸€äº›å­¦ä¹ èµ„æº](http://www.jianshu.com/p/5b9c2163fa98)
 
-ÆäËüÁ·Ï°: https://www.codecademy.com/learn/learn-python
+å…¶å®ƒç»ƒä¹ : [CodeCademy: Learn Python](https://www.codecademy.com/learn/learn-python)

@@ -24,4 +24,12 @@ print('b\n')
 print('a', end=' ')
 print('b', end=' ')
 print('c')
+print("what's your name?")
+print('what\'s your name?')
+print("This is the first lien\nThis is the second line")
+print("This is the first sentence.\
+ This is the second setence.")
+print(r"Newlines are indicated by \n")
+print("Newlines are indicated by \n")
+
 
